@@ -13,7 +13,7 @@ Ricardo Coutinho.
 ## License
 MIT
 
-![](https://raw.githubusercontent.com/RicardoCoutinho/Star-Battle/screenshots/project.png)
+![](https://raw.githubusercontent.com/RicardoCoutinho/Star-Battle/master/screenshots/project.png)
 
 ##### Dependencies
 - SICStus 4.3.0
