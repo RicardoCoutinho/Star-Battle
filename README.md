@@ -1,9 +1,15 @@
 # Star Battle
 The following project was developed for the logic programming class of PLOG in the Faculty of Engineering and University of Porto(FEUP). 
 
-The project's purpose is to learn and make use of PROLOG's logic contraint programming capability.
+The project's purpose is to learn and make use of PROLOG's logic contraint programming capability. We built a board-game level generator developed in PROLOG programming language and usable via terminal/console. 
 
-The Star Battle board-game level generator developed in PROLOG programming language and usable via terminal/console. 
+## Collaborators
+
+[Eduardo Fernandes][1] and 
+Ricardo Coutinho.
+
+## License
+MIT
 
 ![](https://raw.githubusercontent.com/RicardoCoutinho/PLOG/master/project2/project.png)
 
