@@ -31,7 +31,7 @@ $ run4(Vars). (may take a lot of time or break depending on memory size)
 
 ##### Screenshots
 
-![](https://raw.githubusercontent.com/RicardoCoutinho/PLOG/master/project2/screenshots/1.png)
-![](https://raw.githubusercontent.com/RicardoCoutinho/PLOG/master/project2/screenshots/2.png)
+![](https://raw.githubusercontent.com/RicardoCoutinho/Star-Battle/master/screenshots/1.png)
+![](https://raw.githubusercontent.com/RicardoCoutinho/Star-Battle/master/screenshots/2.png)
 
 [1]:https://github.com/edlf
